@@ -1,12 +1,29 @@
-# React + Vite
+#   Portfolio Dynamique - SuperRama
+Bienvenue sur mon portfolio personnel développé avec **Vite + React.js** et **Html + CSS + Tailwind CSS**. Ce site présente mes compétences, projets, expériences etcontributions dans le domaine de la **bio-informatique** , **développement web**, et de l'**analyse de données**.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Aperçu
 
-Currently, two official plugins are available:
+## Technologies utilisées
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [React.js] (https://reactjs.org/)
+- [Tailwind CSS] (https://tailwindcss.com/)
+- [Vite] (https://vitejs.dev/) *(ou Create React App si utilisé)*
+- [CSS] (https://www.w3.org/Style/CSS/specs.fr.html/)
+- [HTML] (https://html.spec.whatwg.org/multipage/)
 
-## Expanding the ESLint configuration
+## Fonctionnalités
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Design responsive
+- Interface moderne avec Tailwindcss
+- Présentation des projets réalisés (bioinformatique, wed etc)
+- Section cv téléchargeable
+- Section contact avec formulaire 
+
+## Installation locale
+
+
+```Bash
+git clone
+cd mon-portfolio
+npm install
+npm run dev 
